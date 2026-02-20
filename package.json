@@ -1,6 +1,6 @@
 {
   "name": "@askonoma/onoma-provider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Use Onoma as your AI model provider in OpenClaw",
   "type": "module",
   "main": "dist/index.js",
